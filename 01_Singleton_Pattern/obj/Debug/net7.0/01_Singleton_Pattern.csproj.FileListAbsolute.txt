@@ -1,0 +1,15 @@
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\bin\Debug\net7.0\01_Singleton_Pattern.exe
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\bin\Debug\net7.0\01_Singleton_Pattern.deps.json
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\bin\Debug\net7.0\01_Singleton_Pattern.runtimeconfig.json
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\bin\Debug\net7.0\01_Singleton_Pattern.dll
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\bin\Debug\net7.0\01_Singleton_Pattern.pdb
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\obj\Debug\net7.0\01_Singleton_Pattern.csproj.AssemblyReference.cache
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\obj\Debug\net7.0\01_Singleton_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\obj\Debug\net7.0\01_Singleton_Pattern.AssemblyInfoInputs.cache
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\obj\Debug\net7.0\01_Singleton_Pattern.AssemblyInfo.cs
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\obj\Debug\net7.0\01_Singleton_Pattern.csproj.CoreCompileInputs.cache
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\obj\Debug\net7.0\01_Singleton_Pattern.dll
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\obj\Debug\net7.0\refint\01_Singleton_Pattern.dll
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\obj\Debug\net7.0\01_Singleton_Pattern.pdb
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\obj\Debug\net7.0\01_Singleton_Pattern.genruntimeconfig.cache
+E:\1- freelancing path\Courses\.net - miltiary service year\Csharp10-Design-Patterns\DesignPatterns\01_Singleton_Pattern\obj\Debug\net7.0\ref\01_Singleton_Pattern.dll
